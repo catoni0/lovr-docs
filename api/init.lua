@@ -39094,7 +39094,8 @@ return {
                 }
               }
             }
-          }
+          },
+          notes = "If a `Collider` contains a MeshShape, it will be forced to become kinematic.  `ConvexShape` can be used instead for dynamic mesh colliders."
         },
         {
           name = "Shape",
